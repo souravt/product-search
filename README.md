@@ -19,7 +19,7 @@ https://github.com/souravt/design/blob/main/Building%20Domain%20Specific%20Small
 ![Optimizations.png](Optimizations.png)
 
 ### Optimization Flow
-![optimization stages.png](optimization stages.png)
+![stages.png](stages.png)
 
 ## Use case
 
