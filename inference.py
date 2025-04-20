@@ -6,7 +6,8 @@ import json
 
 
 # Load the fine-tuned model and tokenizer
-model_path = './fine_tuned_model'
+# model_path = './fine_tuned_model'
+model_path = './peft_model'
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModel.from_pretrained(model_path)
 
